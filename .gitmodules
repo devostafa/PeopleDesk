@@ -1,0 +1,6 @@
+[submodule "people-desk-client"]
+	path = people-desk-client
+	url = https://github.com/devostafa/PeopleDesk-Client.git
+[submodule "people-desk-api"]
+	path = people-desk-api
+	url = https://github.com/devostafa/PeopleDesk-API.git
